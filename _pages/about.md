@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>09/2021:</small> <small style="color:red">Our paper "Improving Community Detection Performance in Heterogeneous Music Network by Learning Edge-type Usefulness Distribution" is accepted by iConference 2022 ~</small>    
+* <small>11/2021:</small> <small style="color:red">Our paper "Improving Community Detection Performance in Heterogeneous Music Network by Learning Edge-type Usefulness Distribution" is accepted by iConference 2022 ~</small>    
 <h2 id="biography"> Biography</h2>  
 
 <small> Hi, I am Zheng Gao, an Applied Scientist at Amazon Alexa AI. I received my Ph.D. degree in Information Science and minor in Computer Science from Indiana University Bloomington, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) in 2020. My research interests are primarily in the area of **Graph Mining** and **Natural Language Processing** (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
 
 <h2 id="publication">Publication</h2> 
-<small>**Zheng Gao**, Chun Guo, Shutian Ma, Xiaozhong Liu. Improving Community Detection Performance in Heterogeneous Music Network by Learning Edge-type Usefulness Distribution. *International Conference on Information*, 2022. [PDF]](https://arxiv.org/abs/2105.00627) [[Slides]](/files/iconference-2022.pptx)</small>
+* <small>**Zheng Gao**, Chun Guo, Shutian Ma, Xiaozhong Liu. Improving Community Detection Performance in Heterogeneous Music Network by Learning Edge-type Usefulness Distribution. *International Conference on Information*, 2022. [PDF]](https://arxiv.org/abs/2105.00627) [[Slides]](/files/iconference-2022.pptx)</small>
 * <small>**Zheng Gao**, Mohamed AbdelHady, Radhika Arava, Xibin Gao, Qian Hu, Wei Xiao, and Thahir Mohamed. X-SHOT: Learning to Rank Voice Applications via Cross-Locale Shard-based Co-Training. *IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)*, 2021. [[PDF]](https://www.amazon.science/publications/x-shot-learning-to-rank-voice-applications-via-cross-locale-shard-based-co-training) [[Video]](https://www.youtube.com/watch?v=kz49WuIEysg&t=7s) [[Slides]](/files/asru-2021.pptx)</small>
 * <small>**Zheng Gao**, Mohamed AbdelHady, Radhika Arava, Xibin Gao, Qian Hu, Wei Xiao, and Thahir Mohamed. X-SHOT: Learning to Rank Voice Applications via Cross-Locale Shard-based Co-Training. *Workshop on Machine Learning in Speech and Language Processing (MLSLP)*, 2021. [[PDF]](https://homepages.inf.ed.ac.uk/htang2/sigml/mlslp2021/MLSLP2021_paper_16.pdf)</small>
 * <small>**Zheng Gao**, Radhika Arava, Qian Hu, Xibin Gao, Thahir Mohamed, Wei Xiao, Mohamed AbdelHady. Paraphrase Label Alignment for Voice Application Retrieval in Spoken Language Understanding. *Interspeech*, 2021. [[PDF]](https://assets.amazon.science/2d/b9/5eb38019430caa942093a051ba85/paraphrase-label-alignment-for-voice-application-retrieval-in-spoken-language-understanding.pdf) [[Video]](https://www.youtube.com/watch?v=Pki2gELMkUc) [[Slides]](/files/interspeech-2021.pptx)</small>
@@ -95,20 +95,24 @@ Conference (TREC)*, 2014. [[PDF]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a618
 
 <h2 id="service">Service</h2>  
 
-<small>**Conference Reviewer:**</small>   
-* <small>The Web Conference (WWW 2018, 2019, 2020)</small>  
+<small>**Conference Reviewer:**</small>  
+* <small>AAAI Conference on Artificial Intelligence (AAAI 2022)</small>
+* <small>The Web Conference (WWW 2018, 2019, 2020)</small>
 * <small>IEEE International Conference on Big Data (BigData 2020)</small>  
 * <small>ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2018)</small>  
 * <small>ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshops (DLP-KDD 2020, IWKG-KDD 2020)</small> 
 
 <small>**Journal Reviewer:**</small>  
+* <small>Journal of Informetrics (JOI 2021)</small>
+* <small>Computers in Industry (2021)</small>
 * <small>Journal of the Association for Information Science and Technology (JASIST 2018, 2019)</small>
 * <small>PeerJ Computer Science (2020)</small> 
 * <small>PLoS ONE (2020)</small> 
 * <small>BMC Bioinformatics (2019, 2020)</small> 
 * <small>Social Network Analysis and Mining (SNAM 2018, 2019, 2020)</small> 
 * <small>Medical Science Monitor (2019)</small> 
-
+* <small>ACM Transactions on Computing for Healthcare (2020)</small> 
+ 
 <small>**Administrative Service:**</small>    
 * <small>Chair of Doctoral Student Association (DSA) at Department of Information and Library Science, Indiana University Bloomington (2016 - 2018) </small>
 <h2 id="award"> Award</h2> 

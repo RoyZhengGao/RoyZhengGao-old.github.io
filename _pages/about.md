@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 {% include base_path %} 
-* <small>01/2022:</small> <small style="color:red">Our paper "Contrastive Knowledge Graph Attention Network For Request-based Recipe Recommendation" is accepted by ICASSP 2022 ~</small>    
+* <small>01/2022:</small> <small style="color:red">Two papers are accepted by IJCNN 2022 ~</small>    
 <h2 id="biography"> Biography</h2>  
 
 <small> Hi, I am Zheng Gao, an Applied Scientist at Amazon Alexa AI. I received my Ph.D. degree in Information Science and minor in Computer Science from Indiana University Bloomington, advised by Prof. [Xiaozhong Liu](http://xiaozhong.website2.me/) in 2020. My research interests are primarily in the area of **Graph Mining** and **Natural Language Processing** (NLP). Particularly, I am applying deep learning techniques on the interdisciplinary field therein them to solve Community Detection, Information Retrieval and Recommendation related tasks.</small>
@@ -57,6 +57,8 @@ h1, h2, h3, h4, h5, h6 {
 * <small>NLP Research Intern, Alibaba DAMO Academy / AI Lab (02/2018 - 03/2019)</small>
 
 <h2 id="publication">Publication</h2> 
+* <small>Xiyao Ma, **Zheng Gao**, Qian Hu, Mohamed AbdelHady. HCL: Hybrid contrastive learning for graph-based recommendation. *International Joint Conference on Neural Networks (IJCNN)*, 2022. [[PDF]](https://www.amazon.science/publications/hcl-hybrid-contrastive-learning-for-graph-based-recommendation)[[Video]](https://www.youtube.com/watch?v=tNCFukP1jx8)[[Slides]](/files/ijcnn2022-hcl.pptx)[[Poster]](/files/ijcnn2022-hcl-poster.pdf) </small>
+* <small>Xiyao Ma, Qian Hu, **Zheng Gao**, Mohamed AbdelHady. Contrastive Co-training for Diversified Recommendation. *International Joint Conference on Neural Networks (IJCNN)*, 2022. [[PDF]](https://www.amazon.science/publications/contrastive-so-training-for-diversified-recommendation)[[Video]](https://www.youtube.com/watch?v=1pIgOVzJiV0)[[Slides]](/files/ijcnn2022-cct.pptx)</small>
 * <small>Xiyao Ma\*,**Zheng Gao\***, Qian Hu, Mohamed AbdelHady. Contrastive Knowledge Graph Attention Network For Request-based Recipe Recommendation. *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022. [[PDF]](https://www.amazon.science/publications/contrastive-knowledge-graph-attention-network-for-request-based-recipe-recommendation)[[Video]](https://www.youtube.com/watch?v=WAkBY2-8zxM)[[Slides]](/files/icassp2022.pptx)[[Poster]](/files/icassp2022-poster.pdf) </small>
 * <small>**Zheng Gao**, Chun Guo, Shutian Ma, Xiaozhong Liu. Improving Community Detection Performance in Heterogeneous Music Network by Learning Edge-type Usefulness Distribution. *International Conference on Information*, 2022. [[PDF]](https://arxiv.org/abs/2105.00627)[[Video]](https://www.youtube.com/watch?v=zSR8NnDc_uw) [[Slides]](/files/iconference2022.pptx)</small>
 * <small>**Zheng Gao**, Mohamed AbdelHady, Radhika Arava, Xibin Gao, Qian Hu, Wei Xiao, and Thahir Mohamed. X-SHOT: Learning to Rank Voice Applications via Cross-Locale Shard-based Co-Training. *IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)*, 2021. [[PDF]](https://www.amazon.science/publications/x-shot-learning-to-rank-voice-applications-via-cross-locale-shard-based-co-training) [[Video]](https://www.youtube.com/watch?v=kz49WuIEysg&t=7s) [[Slides]](/files/asru-2021.pptx)</small>
